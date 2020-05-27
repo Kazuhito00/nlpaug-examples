@@ -56,6 +56,9 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
         * FrequencyMaskingAug(周波数マスク)
         * TimeMaskingAug(時間方向マスク)
 
+# Reference
+　https://github.com/makcedward/nlpaug
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
 
