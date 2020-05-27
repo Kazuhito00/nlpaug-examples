@@ -17,7 +17,7 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 
 実行例を見るだけであれば、Github上でnlpaug-textual-examples.ipynbを開くと以下のように見ることが出来ます。
 
-![2020-03-15 (1)](https://user-images.githubusercontent.com/37477845/76687013-7b05e200-6663-11ea-8e7e-f053b0dfbb5a.png)
+![2020-05-28](https://user-images.githubusercontent.com/37477845/83049589-617f0e80-a086-11ea-91ff-221238224d4d.png)
 
 # Examples
 以下の実行例を実装しています。
