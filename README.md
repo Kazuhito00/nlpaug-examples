@@ -22,6 +22,22 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 # Examples
 以下の実行例を実装しています。
 
+* 文字単位のデータ拡張
+    * KeyboardAug
+    * OcrAug
+    * RandomAug
+* 単語単位のデータ拡張
+    * AntonymAug
+    * ContextualWordEmbsAug
+    * RandomWordAug
+    * SpellingAug
+    * SplitAug
+    * SynonymAug
+    * TfIdfAug
+    * WordEmbsAug
+* 文単位のデータ拡張
+ContextualWordEmbsForSentenceAug
+
 # ToDo
 以下の実行例は未実装です。
 
