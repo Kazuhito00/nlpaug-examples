@@ -24,37 +24,37 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 
 * テキストデータに対するデータ拡張
     * 文字単位のデータ拡張
-        * KeyboardAug
-        * OcrAug
-        * RandomAug
+        * KeyboardAug(キーボード打ち間違い)
+        * OcrAug(OCR検出間違い)
+        * RandomAug(ランダム)
     * 単語単位のデータ拡張
-        * AntonymAug
-        * ContextualWordEmbsAug
-        * RandomWordAug
-        * SpellingAug
-        * SplitAug
-        * SynonymAug
-        * TfIdfAug
-        * WordEmbsAug
+        * AntonymAug(反意語)
+        * ContextualWordEmbsAug(BERT等を用いた挿入、置換)
+        * RandomWordAug(ランダム)
+        * SpellingAug(スペルミス)
+        * SplitAug(単語分割)
+        * SynonymAug(類義語)
+        * TfIdfAug(tf-idfを用いた挿入、置換)
+        * WordEmbsAug(Word2Vec等を用いた挿入、置換)
     * 文単位のデータ拡張
-        * ContextualWordEmbsForSentenceAug
+        * ContextualWordEmbsForSentenceAug(XLNet棟の予測文を挿入)
 
 # ToDo
 以下の実行例は未実装です。
 
 * 信号データに対するデータ拡張
     * オーディオのデータ拡張
-        * CropAug
-        * LoudnessAug
-        * MaskAug
-        * NoiseAug
-        * PitchAug
-        * ShiftAug
-        * SpeedAug
-        * VtlpAug
+        * CropAug(クロッピング)
+        * LoudnessAug(音量)
+        * MaskAug(マスク)
+        * NoiseAug(ノイズ)
+        * PitchAug(ピッチ)
+        * ShiftAug(時間方向のシフト)
+        * SpeedAug(速度)
+        * VtlpAug(声道)
     * スペクトログラム
-        * FrequencyMaskingAug
-        * TimeMaskingAug
+        * FrequencyMaskingAug(周波数マスク)
+        * TimeMaskingAug(時間方向マスク)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
