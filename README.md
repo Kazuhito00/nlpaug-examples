@@ -22,7 +22,7 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 # Examples
 以下の実行例を実装しています。
 
-* テキストデータに対するデータ拡張
+* テキストデータに対するデータ拡張(nlpaug-textual-examples.ipynb)
     * 文字単位のデータ拡張
         * KeyboardAug(キーボード打ち間違い)
         * OcrAug(OCR検出間違い)
@@ -42,7 +42,7 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 # ToDo
 以下の実行例は未実装です。
 
-* 信号データに対するデータ拡張
+* 信号データに対するデータ拡張(nlpaug-signal-examples.ipynb)
     * オーディオのデータ拡張
         * CropAug(クロッピング)
         * LoudnessAug(音量)
