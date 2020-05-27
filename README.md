@@ -22,6 +22,7 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 # Examples
 以下の実行例を実装しています。
 
+[Open with Colab](https://colab.research.google.com/github/Kazuhito00/nlpaug-examples/blob/master/nlpaug-textual-examples.ipynb)
 * テキストデータに対するデータ拡張(nlpaug-textual-examples.ipynb)
     * 文字単位のデータ拡張
         * KeyboardAug(キーボード打ち間違い)
