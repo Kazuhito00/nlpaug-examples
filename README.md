@@ -38,7 +38,7 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
         * TfIdfAug(tf-idfを用いた挿入、置換)
         * WordEmbsAug(Word2Vec等を用いた挿入、置換)
     * 文単位のデータ拡張
-        * ContextualWordEmbsForSentenceAug(XLNet棟の予測文を挿入)
+        * ContextualWordEmbsForSentenceAug(XLNet等を用いた予測文を挿入)
 
 # ToDo
 以下の実行例は未実装です。
