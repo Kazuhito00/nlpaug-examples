@@ -65,4 +65,4 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 
 # License
 
-nlpaug-examples is under [MIT license](LICENSE.md).
+nlpaug-examples is under [MIT license](LICENSE).
