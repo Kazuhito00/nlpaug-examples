@@ -65,6 +65,7 @@ Jupyter上でnlpaug-examples.ipynbを開いて実行してください。
 
 # Note2
 　nlpaugに直接関係ありませんが、チェックしたいもの。
+ 
 　* [自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開しました](https://www.takapy.work/entry/2020/05/17/192947)
 
 # Author
